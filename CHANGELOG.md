@@ -1,5 +1,16 @@
 # Change Log
 
+## 1.0.0
+
+* Fix package.json#typings field ([#6](https://github.com/7rulnik/source-map-js/pull/6)) [@chalkygames123](https://github.com/chalkygames123)
+
+* Reduce memory usage of eachMapping w/ loop ([#5](https://github.com/7rulnik/source-map-js/pull/5)) [@noppa](https://github.com/noppa)
+
+* Reduce npm package size ([#7](https://github.com/7rulnik/source-map-js/pull/7)) [@ai](https://github.com/ai)
+
+----------
+# It doesn't related to this fork:
+
 ## 0.5.6
 
 * Fix for regression when people were using numbers as names in source maps. See
