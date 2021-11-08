@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.0.1
+
+* Remove cleanComments optimization ([#10](https://github.com/7rulnik/source-map-js/pull/10)) [@ai](https://github.com/ai)
+
 ## 1.0.0
 
 * Fix package.json#typings field ([#6](https://github.com/7rulnik/source-map-js/pull/6)) [@chalkygames123](https://github.com/chalkygames123)
