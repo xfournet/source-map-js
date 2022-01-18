@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.0.2
+
+* Add types for path imports ([#13](https://github.com/7rulnik/source-map-js/pull/13)) [@TrySound](https://github.com/TrySound)
+
 ## 1.0.1
 
 * Remove cleanComments optimization ([#10](https://github.com/7rulnik/source-map-js/pull/10)) [@ai](https://github.com/ai)
