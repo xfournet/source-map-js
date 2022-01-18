@@ -8,7 +8,7 @@ Difference between original [source-map](https://github.com/mozilla/source-map):
 
 This journey starts from [source-map@0.7.0](https://github.com/mozilla/source-map/blob/master/CHANGELOG.md#070). Some part of it was rewritten to Rust and WASM and API became async.
 
-It's still a major block for many libraries like PostCSS or Webpack for example because they need to migrate the whole API to the async way. This is the reason why 0.6.1 has 2x more downloads than 0.7.3 while it's faster several times.
+It's still a major block for many libraries like PostCSS or Sass for example because they need to migrate the whole API to the async way. This is the reason why 0.6.1 has 2x more downloads than 0.7.3 while it's faster several times.
 
 ![Downloads count](media/downloads.png)
 
