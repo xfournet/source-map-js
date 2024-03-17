@@ -2,7 +2,7 @@
 
 ## 1.0.3
 
-* Use sourceContents when non-null, even if it's an empty string ([#17](https://github.com/7rulnik/source-map-js/pull/17)) [@TrySound](https://github.com/bshepherdson)
+* Use sourceContents when non-null, even if it's an empty string ([#17](https://github.com/7rulnik/source-map-js/pull/17)) [@bshepherdson](https://github.com/bshepherdson)
 
 ## 1.0.2
 
