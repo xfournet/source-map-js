@@ -1,5 +1,17 @@
 # Change Log
 
+## 1.2.0
+
+Allow to pass options to `SourceMapGenerator` using `SourceMapGenerator.fromSourceMap` as second argument
+
+```js
+var generator = sourceMap.SourceMapGenerator.fromSourceMap(new SourceMapConsumer(), {
+  ignoreInvalidMapping: true,
+});
+```
+
+* Add generator options to fromSourceMap ([#22](https://github.com/7rulnik/source-map-js/pull/22)) [@ai](https://github.com/ai)
+
 ## 1.1.0
 
 Add `ignoreInvalidMapping` option to `SourceMapGenerator`. If enabled, source-map-js will not throw an error on the incorrect previous source map. Instead, it will print warnings and ignore broken mappings.
