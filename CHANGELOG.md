@@ -12,7 +12,7 @@ var generator = new sourceMap.SourceMapGenerator({
 });
 ```
 
-* Do not throw an error since broken prev map is popular issue #20 ([#20](https://github.com/7rulnik/source-map-js/pull/20)) [@ai](https://github.com/ai)
+* Do not throw an error since broken prev map is popular issue ([#20](https://github.com/7rulnik/source-map-js/pull/20)) [@ai](https://github.com/ai)
 * Add ignoreInvalidMapping option ([#21](https://github.com/7rulnik/source-map-js/pull/21)) [@7rulnik](https://github.com/7rulnik)
 
 ## 1.0.3
