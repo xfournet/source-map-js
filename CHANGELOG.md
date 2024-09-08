@@ -1,5 +1,13 @@
 # Change Log
 
+## 1.2.1
+
+* Fix TS2306 “not a module” errors in type definitions ([#16](https://github.com/7rulnik/source-map-js/pull/16)) [@andersk](https://github.com/andersk)
+
+* Ensure null source is respected ([#26](https://github.com/7rulnik/source-map-js/pull/26)) [@dragomirtitian](https://github.com/dragomirtitian)
+
+* Improve ts declarations to be null-safe ([#27](https://github.com/7rulnik/source-map-js/pull/27)) [@dragomirtitian](https://github.com/dragomirtitian)
+
 ## 1.2.0
 
 Allow to pass options to `SourceMapGenerator` using `SourceMapGenerator.fromSourceMap` as second argument
